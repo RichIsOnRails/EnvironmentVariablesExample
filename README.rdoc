@@ -1,0 +1,3 @@
+== Environment Variables Example App
+
+See http://richonrails.com/articles/environment-variables-in-ruby-on-rails for details.
